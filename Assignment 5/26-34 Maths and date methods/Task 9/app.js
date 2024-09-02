@@ -1,0 +1,5 @@
+var userInp =prompt("Enter your weight in kilograms")
+var round = Math.round(userInp)
+var floor =Math.floor(userInp)
+var ceil =Math.ceil(userInp)
+document.write("weight: "+userInp+"Kg <br> Round off weight: "+round+"Kg<br> Floor weight: "+floor+"Kg<br> Ceil weight: "+ceil+"Kg")

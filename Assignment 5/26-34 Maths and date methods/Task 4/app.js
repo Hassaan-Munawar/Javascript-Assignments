@@ -1,0 +1,5 @@
+var userInp =prompt("Enter negative floating point")
+var round = Math.round(userInp)
+var floor =Math.floor(userInp)
+var ceil =Math.ceil(userInp)
+document.write("Number: "+userInp+"<br> Round off value: "+round+"<br> Floor value: "+floor+"<br> Ceil value: "+ceil)

@@ -1,0 +1,1 @@
+document.write("<h1>Rules for naming JS variables</h1>")

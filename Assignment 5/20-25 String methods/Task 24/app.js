@@ -1,0 +1,11 @@
+var str ="Pakistan"
+var match1 = str.match(/a/g).length
+var match3 = str.match(/i/g).length
+var total =match1+match3
+var match2 = str.match(/P/g).length
+var match4 = str.match(/k/g).length
+var match5 = str.match(/s/g).length
+var match6 = str.match(/t/g).length
+var match7 = str.match(/n/g).length
+var totalcons = match2+match4+match5+match6+match7
+document.write("String = "+str+" <br> Number of vowels: "+total+"<br> Number of consonants: "+totalcons)

@@ -1,0 +1,2 @@
+var cars =["Bmw","Mercedes","Audi","G-Wagon"]
+document.write(`<h1>Favourite cars</h1>${cars}<br>First index of the array:0 <br> Car at first index of the array:${cars[0]}<br>Last index of the array:3 <br>Car at last index of the array: ${cars[3]} `)

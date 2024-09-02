@@ -1,0 +1,7 @@
+var literalNotation =[]
+var objectNotation =[]
+var string =["Hassaan"]
+var number =[5]
+var boolean =[true]
+var mixed =["Hassaan",5,true]
+var mobileNetworks =["Ufone","Zong","Telenor","Warid"]

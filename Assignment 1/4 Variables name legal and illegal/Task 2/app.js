@@ -1,0 +1,10 @@
+var fullName ="Muhammad Hassaan"
+var num1 =4
+var institute ="SMIT"
+var perc =87.63
+var mcqs =true
+var 1num =3
+var !hi ="Hello"
+var #no =7
+var .name =""Muhamad Hassaan"
+var %none ="empty"
